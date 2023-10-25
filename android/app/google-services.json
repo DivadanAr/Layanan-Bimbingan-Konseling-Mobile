@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1014772235494",
+    "project_id": "layanan-bimbingan-konseling",
+    "storage_bucket": "layanan-bimbingan-konseling.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1014772235494:android:127daba20aa80fc3838f27",
+        "android_client_info": {
+          "package_name": "com.example.layananbk_flutter"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-d4G7qcZvmtemId24r4FIrESGkNMkGW8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
